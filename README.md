@@ -3,8 +3,8 @@
 This repository is to simulate the server sending data to another server to train and evaluate model, especially on FashionMNIST with LeNet. 
 
 ## Prerequisite
-Ubuntu 22.04.5 LTS   
-Python 3.10.12 
+`Ubuntu 22.04.5 LTS`   
+`Python 3.10.12` 
 
 ## Installation 
 ```
