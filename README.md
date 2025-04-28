@@ -13,7 +13,7 @@ cd DS-200-Lab-4
 ``` 
 Open terminal and install requirements 
 ```
-pip3 install requirements.txt  
+pip3 install -r requirements.txt  
 ```
 
 Then run the stream_data.py to start server and wait for data 
