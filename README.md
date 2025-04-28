@@ -1,6 +1,6 @@
 # DS200 Big Data Lab 4
 ## Introduction 
-This repository is to simulate the server sending data to another server to train and evaluate model, especially on FashionMNIST with LeNet. 
+This repository is to simulate the client sending data to server in order to train and evaluate model, especially on FashionMNIST with LeNet. 
 
 ## Prerequisite
 `Ubuntu 22.04.5 LTS`   
